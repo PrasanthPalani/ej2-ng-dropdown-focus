@@ -1,6 +1,5 @@
 
-# EJ2 DropDownList sharing value in Angular routing.
-
+# EJ2 DropDownList focus event handler
 ## Installing
 
 To install all dependent packages, use the below command
